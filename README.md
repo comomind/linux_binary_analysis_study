@@ -1,5 +1,6 @@
 # 리눅스 바이너리 분석 스터디
 [리눅스 바이너리 분석](http://www.acornpub.co.kr/book/linux-binary) 책을 읽고 관련 내용을 공유 하는 Repository 입니다.
+원서 : [pdf](http://index-of.es/Miscellanous/Learning%20Linux%20Binary%20Analysis.pdf)
 
 본 문서는 [마크다운](https://help.github.com/articles/basic-writing-and-formatting-syntax/) 문법을 이용하여 작성되며, 스터디에 참여하는 분은 자유롭게 수정이 가능합니다.
 
