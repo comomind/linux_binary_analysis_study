@@ -11,9 +11,11 @@
 - [x] 3장, ptrace와 포렌식 분석 (p.111 ~ p.118) - 김주완(8/23)
 - [x] 3장, ptrace를 활용한 코드 인젝션 (p.120 ~ p.132) - 전민지(8/30)
 - [ ] 4장, ELF 바이러스 기술 (p.133 ~ p.149) - 박재유(9/6)
+         
          - http://www.bitlackeys.org/#retaliation
          - http://www.bitlackeys.org/projects/lpv.c LPV 바이러스는 32비트 리눅스 시스템 기반으로 실비오 패딩 감염을 사용한다.
 - [ ] 4장, PT_NOTE에서 PT_LOAD로 변경하는 감염 방법 (p.150 ~ p.163)
+         
          - https://github.com/elfmaster/skeksi_virus
          - https://github.com/elfmaster/saruman
 - [ ] 4장~5장, 디버깅과 패킹 기술 (p.163 ~ p.178)
