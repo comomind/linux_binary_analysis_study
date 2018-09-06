@@ -1,3 +1,5 @@
+// From : https://nnc3.com/mags/LJ_1994-2014/LJ/213/11185.html 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
