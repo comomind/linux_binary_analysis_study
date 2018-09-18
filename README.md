@@ -14,10 +14,11 @@
          
          - http://www.bitlackeys.org/#retaliation
          - http://www.bitlackeys.org/projects/lpv.c //LPV 바이러스는 32비트 리눅스 시스템 기반으로 실비오 패딩 감염을 사용한다.
-- [ ] 4장, PT_NOTE에서 PT_LOAD로 변경하는 감염 방법 (p.150 ~ p.163) - 박정빈(9/18)
+- [x] 4장, PT_NOTE에서 PT_LOAD로 변경하는 감염 방법 (p.150 ~ p.157) - 박정빈(9/18)
          
          - https://github.com/elfmaster/skeksi_virus
          - https://github.com/elfmaster/saruman
+         
 - [ ] 4장~5장, 디버깅과 패킹 기술 (p.163 ~ p.178)
 - [ ] 5장, 기존 ELF 바이너리 프로텍터 (P.179 ~ p.188)  박재유
 - [ ] 5장, 바이너리 보호를 위한 안티 디버깅 (p.189 ~ p.195)
