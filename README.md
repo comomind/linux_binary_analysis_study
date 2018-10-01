@@ -15,7 +15,7 @@
          - http://www.bitlackeys.org/#retaliation
          - http://www.bitlackeys.org/projects/lpv.c //LPV 바이러스는 32비트 리눅스 시스템 기반으로 실비오 패딩 감염을 사용한다.
 - [x] 4장, PT_NOTE에서 PT_LOAD로 변경하는 감염 방법 (p.150 ~ p.157) - 박정빈(9/18)
-         
+         - ssh passcode@pwnable.kr -p2222 (pw:guest) // got관련 문제 풀이 링크 입니다.(pwnable.kr의 passcode 문제)
          - https://github.com/elfmaster/skeksi_virus
          - https://github.com/elfmaster/saruman
          
