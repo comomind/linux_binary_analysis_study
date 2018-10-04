@@ -20,7 +20,14 @@
          - https://github.com/elfmaster/skeksi_virus
          - https://github.com/elfmaster/saruman
          
-- [ ] 4장~5장, 디버깅과 패킹 기술 (p.163 ~ p.178)
+- [x] 4장, 리모트 코드 인젝션 기술1 (p.157 ~ p.163) 김주완
+
+         - http://www.hick.org/code/skape/papers/remote-library-injection.pdf
+         - http://web.archive.org/web/20111222005751/http://vxheavens.com/lib/vrn00.html
+         - https://grugq.github.io/docs/subversiveld.pdf
+         - http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
+         
+- [ ] 4장, 리모트 코드 인젝션 기술2 (p.157 ~ p.163) 김주완
 - [ ] 5장, 기존 ELF 바이너리 프로텍터 (P.179 ~ p.188)  박재유
 - [ ] 5장, 바이너리 보호를 위한 안티 디버깅 (p.189 ~ p.195)
 - [ ] 6장 부터는 미정
