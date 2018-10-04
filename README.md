@@ -20,7 +20,7 @@
          - https://github.com/elfmaster/skeksi_virus
          - https://github.com/elfmaster/saruman
          
-- [x] 4장, 리모트 코드 인젝션 기술1 (p.157 ~ p.163) 김주완
+- [x] 4장, 리모트 코드 인젝션 기술1 (p.157 ~ p.163) - 김주완(10/4)
 
          - http://www.hick.org/code/skape/papers/remote-library-injection.pdf
          - http://web.archive.org/web/20111222005751/http://vxheavens.com/lib/vrn00.html
