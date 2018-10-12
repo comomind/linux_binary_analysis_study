@@ -28,6 +28,6 @@
          - http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
          
 - [ ] 4장, 리모트 코드 인젝션 기술2 (p.157 ~ p.163) 김주완
-- [ ] 5장, 기존 ELF 바이너리 프로텍터 (P.179 ~ p.188)  박재유
+- [ ] 5장, 기존 ELF 바이너리 프로텍터 (P.179 ~ p.188)  
 - [ ] 5장, 바이너리 보호를 위한 안티 디버깅 (p.189 ~ p.195)
 - [ ] 6장 부터는 미정
