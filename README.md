@@ -29,7 +29,9 @@
          
 - [x] 4장, 리모트 코드 인젝션 기술2 (p.157 ~ p.163) - 김주완(10/12)
 - [x] 5장, 기존 ELF 바이너리 프로텍터 (P.163 ~ p.181) - 김주완, 박정빈 (11/19)
+
          - http://www.bitlackeys.org/projects/elfscure.c
 - [ ] 5장, 기존 ELF 바이너리 프로텍터 (p.181 ~ ) - (11/29)
+
          - http://www.stratigery.com/userlandexec.html 
 - [ ] 6장 부터는 미정
